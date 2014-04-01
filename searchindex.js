@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{content:0,index:0,modul:0,search:0},objtypes:{},objnames:{},filenames:["index"],titles:["Welcome to Guillaume Baty Pages"],objects:{},titleterms:{welcom:0,bati:0,guillaum:0,indic:0,tabl:0,page:0}})
