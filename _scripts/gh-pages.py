@@ -77,7 +77,7 @@ def sh3(cmd):
 
 def init_repo(path):
     """clone the gh-pages repo if we haven't already."""
-    sh("git clone %s %s"%(pages_repo, path))
+    sh("git clone %s %s" % (pages_repo, path))
     cd(path)
     sh("git checkout %s" % dest_branch)
     # For an <x>.github.com site, the pages go in master, so we don't need
@@ -105,7 +105,7 @@ if __name__ == '__main__':
     # This is pretty unforgiving: we unconditionally nuke the destination
     # directory, and then copy the html tree in there
     sh('rm -r %s/*' % pages_dir)
-    
+
     sh('cp -r %s/* %s/' % (html_dir, pages_dir))
 
     try:

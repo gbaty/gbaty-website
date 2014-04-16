@@ -3,14 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Guillaume Baty Pages's documentation!
-================================================
+Welcome to Guillaume Baty Pages
+===============================
 
-Contents:
+Documentation
+-------------
 
-.. toctree::
-   :maxdepth: 2
-
+* `OpenAleaLab's documentation (my devel version) <http://gbaty.github.io/VirtualPlants-website>`_
+* `OpenAleaLab's documentation (VirtualPlants devel version) <http://virtualplants.github.io/VirtualPlants-website>`_
+* `OpenAleaLab's documentation (Official version) <http://virtualplants.github.io>`_
 
 
 Indices and tables
